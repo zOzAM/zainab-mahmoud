@@ -84,8 +84,8 @@ To grow as a software engineer by building practical products, strengthening my 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email]
+- LinkedIn: www.linkedin.com/in/zainabmahmoud
+- Email: zozam767@gmail.com
 
 ---
 
