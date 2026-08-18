@@ -1,16 +1,16 @@
 # Hi, I'm Zainab Mahmoud 👋
 
 <p align="center">
-  <a href="https://github.com/zainab-mahmoud7">
+  <a href="https://github.com/ZainabMahmoud-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=IT+Graduate+%7C+Aspiring+Software+Engineer;AI-Assisted+Development+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zainab-mahmoud7">
+  <a href="https://github.com/ZainabMahmoud-dev">
     <img src="https://img.shields.io/badge/GitHub-zainab-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zainab-mahmoud7&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ZainabMahmoud-dev&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -108,21 +108,21 @@ Reliable Delivery
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zainab-mahmoud7&bg_color=00000000&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabMahmoud-dev&bg_color=00000000&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
     alt="GitHub contribution activity"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-mahmoud7&theme=transparent&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabMahmoud-dev&theme=transparent&hide_border=true"
     alt="GitHub streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=zainab-mahmoud7&theme=transparent&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=ZainabMahmoud-dev&theme=transparent&no-frame=true&no-bg=true&margin-w=8"
     alt="GitHub trophies"
   />
 </p>
@@ -147,7 +147,7 @@ To grow as a software engineer by building practical products, strengthening my 
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://github.com/zainab-mahmoud7">
+  <a href="https://github.com/ZainabMahmoud-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
